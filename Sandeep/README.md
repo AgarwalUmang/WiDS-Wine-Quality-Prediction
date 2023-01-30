@@ -1,4 +1,5 @@
-# ****Wine Quality Prediction using Machine Learning****
+# ****Wine Quality Prediction using Machine Learning**** 
+**By** _Sandeep Kumar_
 ## **Abstract**
 The red wine industry has shown recent exponential growth as social drinking continues. Nowadays, industries are using product quality certifications to promote their products. This process is time-consuming and requires assessment given by human tasters, which makes this process very personal opinions based. Another factor in red wine quality assessment is laboratory-based physicochemical tests, which consider factors like acidity, pH level, sugar, and other chemical properties. The red wine market would be interested if the human quality of tasting could be related to wine’s chemical properties so that certification,taste, and  quality are more controlled. This project aims to determine which features are most responsible for determination of wine quality. 
 
